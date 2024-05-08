@@ -1,0 +1,72 @@
+{
+    "university": {
+      "name": "Tech University",
+      "faculties": {
+        "engineering": {
+          "departments": {
+            "computer_science": {
+              "courses": [
+                {
+                  "code": "CS101",
+                  "name": "Introduction to Computer Science",
+                  "credits": 3
+                },
+                {
+                  "code": "CS201",
+                  "name": "Data Structures and Algorithms",
+                  "credits": 4
+                }
+              ]
+            },
+            "electrical_engineering": {
+              "courses": [
+                {
+                  "code": "EE101",
+                  "name": "Circuit Analysis",
+                  "credits": 4
+                },
+                {
+                  "code": "EE202",
+                  "name": "Power Systems",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        },
+        "business": {
+          "departments": {
+            "finance": {
+              "courses": [
+                {
+                  "code": "FIN101",
+                  "name": "Principles of Finance",
+                  "credits": 3
+                },
+                {
+                  "code": "FIN202",
+                  "name": "Investment Analysis",
+                  "credits": 4
+                }
+              ]
+            },
+            "marketing": {
+              "courses": [
+                {
+                  "code": "MKT101",
+                  "name": "Marketing Management",
+                  "credits": 3
+                },
+                {
+                  "code": "MKT202",
+                  "name": "Consumer Behavior",
+                  "credits": 3
+                }
+              ]
+            }
+          }
+        }
+      }
+    }
+  }
+  

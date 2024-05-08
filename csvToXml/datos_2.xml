@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <row type="dict">
+        <Name type="str">John</Name>
+        <Age type="int">30</Age>
+        <Department type="str">Engineering</Department>
+        <Skills type="str">Python,Java,C++</Skills>
+    </row>
+    <row type="dict">
+        <Name type="str">Alice</Name>
+        <Age type="int">25</Age>
+        <Department type="str">Finance</Department>
+        <Skills type="str">Excel,Accounting</Skills>
+    </row>
+    <row type="dict">
+        <Name type="str">Bob</Name>
+        <Age type="int">35</Age>
+        <Department type="str">Marketing</Department>
+        <Skills type="str">Sales,Communication</Skills>
+    </row>
+</root>

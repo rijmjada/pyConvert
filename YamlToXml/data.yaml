@@ -1,0 +1,26 @@
+company:
+  employees:
+    - age: 30
+      department: Engineering
+      id: 1
+      name: John
+      projects:
+        - description: Developing a new software application
+          name: Project A
+        - description: Improving the existing infrastructure
+          name: Project B
+      skills:
+        - Python
+        - Java
+        - C++
+    - age: 28
+      department: Marketing
+      id: 2
+      name: Alice
+      projects:
+        - description: Launching a new marketing campaign
+          name: Campaign X
+      skills:
+        - Marketing Strategy
+        - Social Media Management
+  name: TechCorp

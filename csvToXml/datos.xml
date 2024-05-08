@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<main>
+    <col type="dict">
+        <Date type="str">2020-01-02</Date>
+        <Open type="float">216.600006</Open>
+        <High type="float">219.979996</High>
+        <Low type="float">216.539993</Low>
+        <Close type="float">219.770004</Close>
+        <Adj_Close type="float">216.854889</Adj_Close>
+        <Volume type="int">15873500</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-03</Date>
+        <Open type="float">216.350006</Open>
+        <High type="float">218.203003</High>
+        <Low type="float">216.009995</Low>
+        <Close type="float">217.0</Close>
+        <Adj_Close type="float">214.121628</Adj_Close>
+        <Volume type="int">8604500</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-06</Date>
+        <Open type="float">214.889999</Open>
+        <High type="float">217.160004</High>
+        <Low type="float">214.089996</Low>
+        <Close type="float">216.639999</Close>
+        <Adj_Close type="float">213.766403</Adj_Close>
+        <Volume type="int">11885500</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-07</Date>
+        <Open type="float">217.639999</Open>
+        <High type="float">218.940002</High>
+        <Low type="float">216.690002</Low>
+        <Close type="float">217.630005</Close>
+        <Adj_Close type="float">214.743286</Adj_Close>
+        <Volume type="int">9388000</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-08</Date>
+        <Open type="float">216.600006</Open>
+        <High type="float">220.649994</High>
+        <Low type="float">216.320007</Low>
+        <Close type="float">218.0</Close>
+        <Adj_Close type="float">215.108368</Adj_Close>
+        <Volume type="int">11959100</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-09</Date>
+        <Open type="float">221.5</Open>
+        <High type="float">223.080002</High>
+        <Low type="float">220.820007</Low>
+        <Close type="float">221.779999</Close>
+        <Adj_Close type="float">218.838226</Adj_Close>
+        <Volume type="int">13122500</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-10</Date>
+        <Open type="float">223.899994</Open>
+        <High type="float">225.960007</High>
+        <Low type="float">222.061005</Low>
+        <Close type="float">223.830002</Close>
+        <Adj_Close type="float">220.861038</Adj_Close>
+        <Volume type="int">12296000</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-13</Date>
+        <Open type="float">228.809998</Open>
+        <High type="float">231.139999</High>
+        <Low type="float">227.039993</Low>
+        <Close type="float">230.479996</Close>
+        <Adj_Close type="float">227.422821</Adj_Close>
+        <Volume type="int">17544800</Volume>
+    </col>
+    <col type="dict">
+        <Date type="str">2020-01-14</Date>
+        <Open type="float">230.050003</Open>
+        <High type="float">230.175003</High>
+        <Low type="float">224.880005</Low>
+        <Close type="float">226.490005</Close>
+        <Adj_Close type="float">223.485764</Adj_Close>
+        <Volume type="int">17266900</Volume>
+    </col>
+</main>

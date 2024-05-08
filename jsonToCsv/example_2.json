@@ -1,0 +1,16 @@
+{
+    "employees": {
+      "title": "Lista de Empleados",
+      "employee1": {
+        "name": "John",
+        "age": 30,
+        "department": "HR"
+      },
+      "employee2": {
+        "name": "Alice",
+        "age": 25,
+        "department": "Finance"
+      }
+    }
+  }
+  

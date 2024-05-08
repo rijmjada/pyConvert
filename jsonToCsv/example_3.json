@@ -1,0 +1,29 @@
+{
+    "company": {
+      "name": "Acme Corporation",
+      "employees": {
+        "title": "Lista de Empleados",
+        "employee1": {
+          "name": "John",
+          "age": 30,
+          "department": "HR"
+        },
+        "employee2": {
+          "name": "Alice",
+          "age": 25,
+          "department": "Finance"
+        }
+      },
+      "departments": {
+        "HR": {
+          "manager": "Michael",
+          "location": "Floor 5"
+        },
+        "Finance": {
+          "manager": "Sarah",
+          "location": "Floor 7"
+        }
+      }
+    }
+  }
+  

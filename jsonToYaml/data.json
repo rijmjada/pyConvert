@@ -1,0 +1,38 @@
+{
+    "company": {
+      "name": "TechCorp",
+      "employees": [
+        {
+          "id": 1,
+          "name": "John",
+          "age": 30,
+          "department": "Engineering",
+          "skills": ["Python", "Java", "C++"],
+          "projects": [
+            {
+              "name": "Project A",
+              "description": "Developing a new software application"
+            },
+            {
+              "name": "Project B",
+              "description": "Improving the existing infrastructure"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Alice",
+          "age": 28,
+          "department": "Marketing",
+          "skills": ["Marketing Strategy", "Social Media Management"],
+          "projects": [
+            {
+              "name": "Campaign X",
+              "description": "Launching a new marketing campaign"
+            }
+          ]
+        }
+      ]
+    }
+  }
+  

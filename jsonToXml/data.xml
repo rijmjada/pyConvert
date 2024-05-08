@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+    <company>
+        <name>TechCorp</name>
+        <employees>
+            <id>1</id>
+            <name>John</name>
+            <age>30</age>
+            <department>Engineering</department>
+            <skills>
+                <record>Python</record>
+                <record>Java</record>
+                <record>C++</record>
+            </skills>
+            <projects>
+                <name>Project A</name>
+                <description>Developing a new software application</description>
+                <name>Project B</name>
+                <description>Improving the existing infrastructure</description>
+            </projects>
+            <id>2</id>
+            <name>Alice</name>
+            <age>28</age>
+            <department>Marketing</department>
+            <skills>
+                <record>Marketing Strategy</record>
+                <record>Social Media Management</record>
+            </skills>
+            <projects>
+                <name>Campaign X</name>
+                <description>Launching a new marketing campaign</description>
+            </projects>
+        </employees>
+    </company>
+</data>
